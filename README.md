@@ -4,9 +4,9 @@ I wanna become a passionate FrontEnd, BackEnd developer!
 
 ## 🙋‍♂️ About me 🙋‍♂️
 
-🌟 Aspiring FrontEnd & BackEnd Engineer
+🌟 Aspiring FrontEnd & BackEnd Engineer.
 
-✍️ Check out my blog [here](https://seorydev.tistory.com) for insights and projects!
+✍️ Check out my blog [here](https://seorydev.tistory.com) for insights and projects.
 
 💖 Passionately keep learning and never give up!
 
