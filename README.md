@@ -60,7 +60,7 @@ I wanna become a passionate FrontEnd, BackEnd developer!
   <a href="https://github.com/2024-SMHRD-SW-Fullstack-1/Foodie">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2024-SMHRD-SW-Fullstack-1&repo=foodie&theme=buefy)" />
   </a>
-  <a href="https://github.com/2024-SMHRD-SW-Fullstack-1/WeFAM">
+  <a href="https://github.com/jaehyodev/WeFAM">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2024-SMHRD-SW-Fullstack-1&repo=wefam&theme=buefy" />
   </a>
 </div>
