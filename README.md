@@ -49,6 +49,7 @@ I wanna become a passionate FrontEnd, BackEnd developer!
 ## 💼 Experience 💼
 - 스마트인재개발원, 풀스택 SW 융합 실무 부트캠프 _(2024.03 ~ 2024.09)_
 - 우정사업본부 전남지방우정청, 우편·금융·보험 담당 _(2021.07 ~ 2023.12)_
+- 그린컴퓨터아카데미, 프로그래밍 언어 C 및 Java 과정 _(2020.08 ~ 2020.10)_
 - 광컴직업전문학교, 스마트 하이브리드앱 콘텐츠 개발 부트캠프 _(2020.05 ~ 2020.10)_
 
 <br>
@@ -57,10 +58,10 @@ I wanna become a passionate FrontEnd, BackEnd developer!
 - 라이프 스타일 별 식재료 원클릭 구매 쇼핑 웹 서비스 개발 _(2024.05 ~ 2024.07)_
 - 가족 소통과 유대 강화를 위한 가족 커뮤니티 웹 서비스 개발 _(2024.08 ~ 2024.09)_
 <div>
-  <a href="https://github.com/2024-SMHRD-SW-Fullstack-1/Foodie">
+  <a href="https://github.com/jaehyodev/foodie">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2024-SMHRD-SW-Fullstack-1&repo=foodie&theme=buefy)" />
   </a>
-  <a href="https://github.com/jaehyodev/WeFAM">
+  <a href="https://github.com/jaehyodev/wefam">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=2024-SMHRD-SW-Fullstack-1&repo=wefam&theme=buefy" />
   </a>
 </div>
